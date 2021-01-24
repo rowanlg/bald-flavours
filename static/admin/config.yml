@@ -43,6 +43,20 @@ collections:
                 label: Description
                 default: ''
                 required: false
+          - widget: object
+            name: about
+            label: Aboutpage Options
+            fields:
+              - widget: string
+                name: title
+                label: Sub Title Text
+                default: ''
+                required: false
+              - widget: markdown
+                name: content
+                label: Content
+                default: ''
+                required: false
   - name: blog
     label: Blog
     folder: _data/blog
