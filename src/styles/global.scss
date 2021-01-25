@@ -1,4 +1,4 @@
-$font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+$font-family: montserrat, -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 
 html,
 body {
@@ -76,9 +76,10 @@ a {
   }
 }
 .navigation {
-  display: none;
   align-items: center;
   font-weight: 300;
+  font-size: 1.1rem;
+  display: flex;
   a {
     color: var(--text-color);
     text-decoration: none;
@@ -94,6 +95,9 @@ a {
       margin-right: 0;
     }
   }
+}
+.nav-hide-container {
+  display: none;
   @media (min-width: 1025px) {
     display: flex;
   }
@@ -115,6 +119,9 @@ a {
   flex-direction: column;
   text-align: center;
   font-weight: 300;
+  transition: all 0.3s linear;
+  border-top: 10px solid var(--primary-color-contrast);
+  z-index: 1;
   a {
     color: var(--text-color);
     text-decoration: none;
@@ -133,16 +140,21 @@ a {
 }
 .nav-link {
   padding: 20px;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 .toggle-mobile-nav {
-  z-index: 999;
+  z-index: 997;
+  //margin-top: -0.4rem;
+  margin-left: 0.6rem;
   cursor: pointer;
   div {
-    border: 2px solid white;
-    background-color: white;
-    width: 1.3rem;
-    margin: 0.2rem;
+    background-color: var(--text-color);
+    width: 22px;
+    border: 0.1rem solid var(--text-color);
+    margin: 5px;
+    border-radius: 10px;
+    transition: all 0.3s linear;
+    transform-origin: 1px;
   }
   @media (min-width: 1025px) {
     display: none;
@@ -166,6 +178,11 @@ a {
   padding: 0 0 64px;
   max-width: 980px;
   text-align: center;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 .headline {
   font-size: 36px;
@@ -455,7 +472,9 @@ body.light {
     width: 20px;
     height: 20px;
     border: 2px solid;
-    border-bottom-color: transparent
+    border-bottom-color: transparent;
+    margin-top: 0.2rem;
+    margin-left: 0.1rem;
 }
 .gg-moon::after {
     content: "";
@@ -469,12 +488,22 @@ body.light {
 }
 
 .hero-image {
-  background-image: url(../images/bacon_eggs.jpg);
+  background-image: linear-gradient(rgba(000,000,000,0.2), rgba(000,000,000,0.2)), url("../images/bacon_eggs.jpg");
   background-position: center;
   background-repeat: no-repeat; 
   background-size: cover;
-  opacity: 0.5;
-  padding-top: 100px;
-  padding-left: 20px;
-  padding-right: 20px;
+  //opacity: 0.5;
+  margin-bottom: 5rem;
+  padding: 200px 0;
+  width: 100vw;
+  margin-left: -2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  @media (min-width: 1200px) {
+    max-width: 1200px;
+  }
+}
+.bring-to-front {
+  z-index: 998;
 }
