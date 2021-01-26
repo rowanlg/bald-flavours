@@ -90,17 +90,3 @@ collections:
           config:
             multiple: false
       - { name: body, label: Body, widget: markdown }
-  - name: pages
-    label: Pages
-    files:
-      - file: _data/pages/about.md
-        name: about
-        label: About Page
-        fields:
-          - { name: title, label: Title }
-          - { name: body, label: Body, widget: markdown }
-          
-
-        
-        
-
