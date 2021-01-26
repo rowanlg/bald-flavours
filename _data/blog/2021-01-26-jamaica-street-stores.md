@@ -2,6 +2,7 @@
 template: BlogPost
 path: /jamaica-street-stores
 date: 2021-01-19T08:19:18.227Z
+tag: Review
 title: Jamaica Street Stores
 metaDescription: >-
   Review of the Bristol restaurant, Jamaica Street Stores, by Sam Wilson aka
