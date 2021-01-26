@@ -75,7 +75,7 @@ collections:
         pattern: [/]
         hint: "Path must start with /"
       - { name: date, label: Date, widget: datetime }
-      - { name: tag, label: Tag }
+      - { name: tag, label: Tag, hint: "Tags: 'Review', 'Blog Post', 'Home Cooking' (let me know if you think of another)"}
       - { name: title, label: Title }
       - label: Meta Description
         name: metaDescription
