@@ -15,7 +15,10 @@ const AboutPage = ({
         <title>{`About | ${site.siteMetadata.title}`}</title>
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
-      <AboutPageContent />
+      
+        <AboutPageContent />
+   
+      
     </Layout>
   )
 }

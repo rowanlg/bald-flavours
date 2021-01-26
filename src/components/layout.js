@@ -20,7 +20,7 @@ export default ({ children }) => {
     <div className="site-wrapper">
       <header className="site-header">
         <div className="site-title">
-          <Link to="/">{/*{data.site.siteMetadata.title}*/}
+          <Link to="/">
             <img 
               src={BFLogo} 
               style={{width: '5rem'}}
