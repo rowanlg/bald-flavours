@@ -15,11 +15,15 @@ const Navigation = (props) => {
           <Link to="/copywriting">Copywriting</Link>
           <Link to="/contact">Contact</Link>
         </div>
-        <ThemeChanger className="bring-to-front" />
-      
+        <div
+          style={toggle ? {opacity: "0"} : {}}
+        >
+          <ThemeChanger />
+        </div>
       <div 
         className="toggle-mobile-nav"
         onClick={() => setToggle(!toggle)}
+        style={toggle ? {position: "fixed"} : {}}
       >
         <div
           style={toggle ? {transform: "rotate(45deg)"} : {}}
