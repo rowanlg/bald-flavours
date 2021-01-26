@@ -274,7 +274,7 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  border-radius: 18px;
+  border-radius: 5px;
   margin-bottom: 36px;
   color: var(--featured-text);
   display: grid;
@@ -310,7 +310,7 @@ a {
 .card {
   display: grid;
   background-color: var(--card-bg);
-  border-radius: 9px;
+  border-radius: 5px;
   border: 1px solid var(--card-bdr);
   box-shadow: 0 0 30px var(--card-shadow);
   overflow: hidden;
@@ -356,7 +356,7 @@ a {
   background-color: var(--contact-bg);
   padding: 32px;
   border: 1px solid var(--contact-bdr);
-  border-radius: 9px;
+  border-radius: 5px;
   label {
     display: block;
     margin-bottom: 0.5rem;
@@ -368,7 +368,7 @@ a {
     appearance: none;
     border: 1px solid var(--card-shadow);
     color: var(--text-secondary-color);
-    border-radius: 6px;
+    border-radius: 5px;
     line-height: 32px;
     padding: 6px 12px;
     width: calc(100% - 24px);
