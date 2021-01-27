@@ -4,9 +4,11 @@ path: /ducks-plums-potatoes-and-shallots
 date: 2021-01-27T21:30:19.657Z
 tag: Home Cooking
 title: 'Pan roasted duck, sloe spiced plums, fondant potatoes & shallots'
+metaDescription: >-
+  Pan roasted duck, sloe spiced plums, fondant potatoes & shallots. Recipe by
+  Bald Flavours.
+thumbnail: /assets/Duck-sloe-roots-asapragus-plums.-1-883x1024.jpg
 ---
-![Pan roasted duck, sloe spiced plums, fondant potatoes & shallots](/assets/Duck-sloe-roots-asapragus-plums.-1-883x1024.jpg "Pan roasted duck, sloe spiced plums, fondant potatoes & shallots")
-
 ## Ingredients
 
 * 1 duck breast
