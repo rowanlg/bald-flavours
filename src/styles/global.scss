@@ -13,7 +13,7 @@ body.light {
   --primary-color: #F5831F;
   --primary-color-contrast: #05B49B;
   --primary-text-color: #fff;
-  --featured-bg: #493b8a;
+  --featured-bg: #F5831F;
   --featured-text: #fff;
   --secondary-color: #10072b;
   --background: #fff;
@@ -35,7 +35,7 @@ body.dark {
   --primary-color: #05B49B;
   --primary-color-contrast: #F5831F;
   --primary-text-color: #fff;
-  --featured-bg: #66578d;
+  --featured-bg: #05B49B;
   --featured-text: #fff;
   --secondary-color: #66578d;
   --background: #090A0C;
@@ -284,7 +284,7 @@ a {
   overflow: hidden;
   &:before {
     content: "";
-    background: rgba(0,0,0,0.4);
+    background: rgba(0,0,0,0.2);
     position: absolute;
     top: 0;
     left: 0;

@@ -4,7 +4,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
 
   const blogPostTemplate = path.resolve(`src/templates/blogTemplate.js`)
+  //const staticPages = path.resolve(`src/templates/staticPagesTemplate.js`)
 
+  // CHANGED allMardownRemark to markdownRemark to fix about page markdown!
   const result = await graphql(`
     {
       allMarkdownRemark(

@@ -1,5 +1,6 @@
 ---
 title: I’m a Bristol-based food writer, with fifteen years’ experience in the service industry and I love food more than you do.
+path: /about
 ---
 As a touring musician in my early twenties, the only viable work to get between touring seasons was in the service industry. I didn’t mind being chewed up and spat out when my time came, as the suffering was always worth playing for. Eventually, however, this took its toll and I began to wonder what exactly have I been doing with my life up until now? Aside from paying bills, all I did was sleep on my days off and looked forward to the end of every 12, 15 or 17 hour day. This was no way to live, so why? 
 

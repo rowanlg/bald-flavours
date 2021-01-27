@@ -99,3 +99,19 @@ collections:
         fields:
           - { name: title, label: Title }
           - { name: body, label: Body, widget: markdown }
+          - name: path
+            label: Path
+            widget: string
+            pattern: [/]
+            hint: "hint: /about (don't change)"
+      - file: src/pages/copywriting.md
+        name: copywriting
+        label: Copywriting Page
+        fields:
+          - { name: title, label: Title }
+          - { name: body, label: Body, widget: markdown }
+          - name: path
+            label: Path
+            widget: string
+            pattern: [/]
+            hint: "hint: /copywriting (don't change)"

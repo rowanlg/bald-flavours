@@ -30,7 +30,7 @@ const IndexPage = ({
       
         
  
-      <h2>Posts &darr;</h2>
+      <h2>Recent Posts &darr;</h2>
       <div className="grids">
         {Posts}
       </div>
