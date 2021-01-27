@@ -21,6 +21,7 @@ const ContactPage = ({
         </div>
         <div>
           <form className="form-container" name="contact" method="POST" data-netlify="true">
+          <input type="hidden" name="form-name" value="contact"></input>
             <div>
               <label>Name</label>
               <input type="text" name="name" />
