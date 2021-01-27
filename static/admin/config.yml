@@ -57,6 +57,72 @@ collections:
                 label: Content
                 default: ''
                 required: false
+  - name: reviews
+    label: Reviews
+    folder: _data/reviews
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    fields:
+      - {
+          label: Template,
+          name: template,
+          widget: hidden,
+          default: BlogPost,
+        }
+      - name: path
+        label: Path
+        widget: string
+        pattern: [/]
+        hint: "Path must start with /"
+      - { name: date, label: Date, widget: datetime }
+      - { name: tag, label: Tag, hint: "Tags: 'Review', 'Blog Post', 'Home Cooking' (let me know if you think of another)"}
+      - { name: title, label: Title }
+      - label: Meta Description
+        name: metaDescription
+        widget: text
+        required: false
+      - label: Featured Image
+        name: thumbnail
+        widget: image
+        hint: "Image size 1280x800 works best :)"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { name: body, label: Body, widget: markdown }
+  - name: recipes
+    label: Home Cooking
+    folder: _data/recipes
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
+    fields:
+      - {
+          label: Template,
+          name: template,
+          widget: hidden,
+          default: BlogPost,
+        }
+      - name: path
+        label: Path
+        widget: string
+        pattern: [/]
+        hint: "Path must start with /"
+      - { name: date, label: Date, widget: datetime }
+      - { name: tag, label: Tag, hint: "Tags: 'Review', 'Blog Post', 'Home Cooking' (let me know if you think of another)"}
+      - { name: title, label: Title }
+      - label: Meta Description
+        name: metaDescription
+        widget: text
+        required: false
+      - label: Featured Image
+        name: thumbnail
+        widget: image
+        hint: "Image size 1280x800 works best :)"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { name: body, label: Body, widget: markdown }
   - name: blog
     label: Blog
     folder: _data/blog
