@@ -5,10 +5,8 @@ date: 2021-01-26T20:53:43.873Z
 tag: Home Cooking
 title: Venison and Blackberries
 metaDescription: 'Recipe for Venison and Blackberries, by Bald Flavours'
-thumbnail: ''
+thumbnail: /assets/Home-Cooking-Venison.jpg
 ---
-![Venison and Blackberries](/assets/Home-Cooking-Venison.jpg "Venison and Blackberries")
-
 I try, every week at least, to treat myself to the pleasure of cooking for its own sake. Prepping everything as I would do for service, revelling in the knowledge that there isn’t going to be one- with no imminent docket stuttering out another order. No angry overcompensating chefs, no fickle public. Just me and my kitchen.
 
 **Ingredients**
