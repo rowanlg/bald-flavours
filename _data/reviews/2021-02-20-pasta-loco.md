@@ -7,8 +7,6 @@ title: 'Pasta Loco '
 ---
 <!--StartFragment-->
 
-## [Pasta Loco July 2019](http://baldflavours.com/pasta-loco-july-2019/)
-
 Pasta Loco. The J Dilla of ravioli, the Madlib of pappardelle; if hip hop did pasta. Like the privately educated roadman that carries that little handbag around containing a Dayrider and a 0.8 of his older brother’s weed, Pasta Loco™ is an acutely self-aware concept that cringingly revels in its craft, under the misapprehension that punters know barely anything about authenticity or in fact, cooking. On the menu and walls is a written reminder that the staff await your imminent display of ignorance with relish. Luckily for me, I played it safe with the pappardelle salsiccia carbonara because, obviously, me dumb-dumb. This dish, in particular, had been making waves all over town and let’s be honest-probably the world. All I know is that I’m late to the party and bleeding street credits.
 
 ![](https://lh5.googleusercontent.com/cBU8mbMeYcjiHwZAilet5AArBdMDNpLWukuBvsjdGAI7K1OUq7eqjDt5drlH88KaIWRbHUiDKU2QPn-4X-DlZepwGj7J8Juv7sBBrJ77fkfRnQZTpJ_FF2cC0QSCnO3FItyl9M3N)Yep.
@@ -29,8 +27,6 @@ The burrata with Sicilian caponata de melanzane & pasta fritti is perhaps the st
 
 ![](https://lh4.googleusercontent.com/FVWNvMcNaXdzzmNSVVQlNCxemV-E5n1Pxsw6GRkpihCml4nQ4rRm8YNC6gHyPWcwoY86w90zUAfixqa04ULFz5V7NHKQK_AkYO4qiwBHv6kkiv4F0Qw29H70dY0U8MsqztQfUeno)Save me.
 
-
-
 I look to the next dish ‘Raviolo doppio of braised duck with Italian peas & crispy coppa in brodo’ and immediately hear the moronic interrogative seeping into my thoughts. “Raviolo, like,doppio?And BTW ‘brodo’means ‘broth’, omg you’re welcome!” accompanied by an audible plastic grin. Severely imbalanced, lukewarm and astringent to a wince – I see a lot of myself in this dish.
 
 But there’s a raspberry in there, so that’s something.
@@ -50,7 +46,5 @@ But here we are.
 ![](https://lh6.googleusercontent.com/6UWR2bKi3EKV6GgFJ6eazWcp1GVEwUoXh2nq_ZSZ6Ql9PmUTguXR8sMo9wv6n6Eju-7h-CmevUM5dFNA6aBN1Yi7htJOBb4LlvkctR5RthSzwYwUzBl_zGa8690l-z-DA7llodHZ)The 80’s vaseline-on-the-lens does its best to give sex appeal.
 
 Tonight they’ll cash up and consider it a victory but I vote with my wallet and this time, they’ve been hoist by their own petard because unfortunately, Dilla made Donuts. Not pasta.
-
-
 
 <!--EndFragment-->
