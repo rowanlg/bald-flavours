@@ -4,6 +4,7 @@ path: /pastaloco
 date: 2021-02-20T15:52:15.134Z
 tag: Review
 title: 'Pasta Loco '
+thumbnail: /assets/65394417_2405342326376771_7872504151535529035_n.jpg
 ---
 <!--StartFragment-->
 
