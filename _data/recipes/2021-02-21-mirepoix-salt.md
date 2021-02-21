@@ -4,6 +4,7 @@ path: /mirepoixsalt
 date: 2020-04-10T10:58:29.104Z
 tag: Home Cooking
 title: Mirepoix Salt
+thumbnail: /assets/92823826_983837218685802_6983121495473690490_n.jpg
 ---
 Because I have a deyhdrator and time is now irrelevant, I thought if I'm making crystalised stocks of sorts then why not just do a version of a classic stock base: carrot, onion, celery, garlic and some herbs? 
 
