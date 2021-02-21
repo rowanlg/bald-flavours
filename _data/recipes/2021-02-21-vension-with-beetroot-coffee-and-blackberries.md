@@ -3,7 +3,7 @@ template: BlogPost
 path: /venisonblackberriescoffee
 date: 2021-02-21T10:41:02.838Z
 tag: Home Cooking
-title: 'Vension with beetroot, coffee and blackberries.'
+title: 'Vension with beetroot, coffee and blackberries'
 metaDescription: Pre-saucing
 thumbnail: /assets/104278681_187770115950346_5405635694285911541_n.jpg
 ---
