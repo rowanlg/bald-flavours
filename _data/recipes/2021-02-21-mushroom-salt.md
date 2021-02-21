@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /mushroomsalt
-date: 2021-02-21T11:36:18.715Z
+date: 2020-04-09T10:36:18.715Z
 tag: Home Cooking
 title: Mushroom Salt
 thumbnail: /assets/91957101_252816812780945_8349982412094550853_n.jpg
