@@ -7,7 +7,7 @@ title: Jamaica Street Stores
 metaDescription: >-
   Review of the Bristol restaurant, Jamaica Street Stores, by Sam Wilson aka
   Bald Flavours
-thumbnail: /assets/JSS-Fried-Chicken-1-768x768.jpg
+thumbnail: /assets/22351666_1719904821652055_1282288981874049024_n.jpg
 ---
 Stokes Croft is what you make it. For some, it’s what Nathan Barley warned us about- for others it’s a thriving hub of independent businesses, hedonism and some decent graffiti from time to time. Whatever your preference, Stokes Croft hasborethe brunt of gentrification with relative aplomb; even Turbo Island got a mural. And even on my worst days, I’ve always got time for a fist bump or hug with Jeff.
 
