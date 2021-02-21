@@ -6,7 +6,7 @@ tag: Home Cooking
 title: 'Venison with Jennied Carrots, roasted beetroot and pickled cherries'
 thumbnail: /assets/108083054_271016284228090_4432291786082240092_n.jpg
 ---
-Vension with Jennied Carrots, roasted beetroot and pickled cherries.
+Vension with Jennied Carrots, roasted beetroot and pickled cherries
 
 NB: Because I keep all basting butter that I use, I aged this lean cut in that butter for a week. 
 
