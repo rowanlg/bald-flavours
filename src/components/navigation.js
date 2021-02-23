@@ -12,7 +12,7 @@ const Navigation = (props) => {
           <Link to="/about">About</Link>
           <Link to="/reviews">Reviews</Link>
           <Link to="/homecooking">Home Cooking</Link>
-          <Link to="/copywriting">Copywriting</Link>
+          {/* <Link to="/copywriting">Copywriting</Link> */}
           <Link to="/contact">Contact</Link>
         </div>
         <div
@@ -44,7 +44,7 @@ const Navigation = (props) => {
         <Link className="nav-link" to="/about">About</Link>
         <Link className="nav-link" to="/reviews">Reviews</Link>
         <Link className="nav-link" to="/homecooking">Home Cooking</Link>
-        <Link className="nav-link" to="/copywriting">Copywriting</Link>
+        {/* <Link className="nav-link" to="/copywriting">Copywriting</Link> */}
         <Link className="nav-link" to="/contact">Contact</Link>
       </nav>
     </>

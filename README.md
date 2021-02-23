@@ -122,3 +122,10 @@ All notable changes to this project are listed here.
 
 ### [1.0.0] - 2020-03-14
 - Launch of GatsbyJS and Netlify CMS based starter `gatsby-starter-delog`
+
+
+
+
+Color scheme
+
+https://coolors.co/f5831f-05b49b-090a0c-1a1d23-f5f5f5
