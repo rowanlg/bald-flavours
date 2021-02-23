@@ -3,7 +3,7 @@ template: BlogPost
 path: /AAGillAward2020
 date: 2021-02-23T17:19:18.021Z
 tag: Review
-title: AA Gill Award 2020 - Wilsons Restaurant
+title: AA Gill Award Entry 2020 - Wilsons Restaurant
 ---
 <!--StartFragment-->
 
