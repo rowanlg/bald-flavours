@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /venison-and-blackberries
-date: 2021-01-26T20:53:43.873Z
+date: 2017-11-27T20:53:43.873Z
 tag: Home Cooking
 title: Venison and Blackberries
 metaDescription: 'Recipe for Venison and Blackberries, by Bald Flavours'
