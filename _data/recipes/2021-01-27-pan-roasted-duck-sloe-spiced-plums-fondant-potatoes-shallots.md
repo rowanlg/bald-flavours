@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /ducks-plums-potatoes-and-shallots
-date: 2021-01-27T21:30:19.657Z
+date: 2018-05-08T20:30:19.657Z
 tag: Home Cooking
 title: 'Pan roasted duck, sloe spiced plums, fondant potatoes & shallots'
 metaDescription: >-
