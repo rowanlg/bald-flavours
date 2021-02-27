@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /beetroot
-date: 2021-02-27T09:25:20.615Z
+date: 2019-10-22T08:25:20.615Z
 tag: Home Cooking
 title: 'Beetroot, blackberries, dill & pine nuts'
 thumbnail: /assets/75371312_166407684509019_8094970716434955281_n.jpg
