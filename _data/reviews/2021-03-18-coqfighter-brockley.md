@@ -34,7 +34,7 @@ If you’re going to charge £3 for fries, then fucking make with the fries. I d
 
 Don't get me wrong, the chicken is good: the double cooking makes sure that you can bite clean-through without fear of an imminent chin-slap from loosely battered skin. I genuinely reveled in being able to ravage the fillets as I please, without the irritating tedium of a never-ending mouthful that you sometimes get from pizza or spaghetti.
 
-When it comes to the execution, Wings Diner and the like plays a trick on you. It comes in those red plastic baskets lined with red and white chequered paper that you’d see in Saved By The Bell or any diner seen in American dross. It plays on that cringey love affair we have with American cuisine and that would be all fine and dandy if it then wasn’t priced like it’s a delicacy. Burrito's suffer a similar disposition in this way, too.
+When it comes to the execution, Wings Diner and the like plays a trick on you. It comes in those red plastic baskets lined with red and white chequered paper that you’d see in Saved By The Bell or any diner seen in American dross. It plays on that cringey love affair we have with American cuisine and that would be all fine and dandy if it then wasn’t priced like it’s a delicacy. Burrito's suffer a similar reputation in this way, too.
 
 I’m an insufferable pedant about a lot of things as you can probably glean from this tirade but who'd’ve thought I’d be vindicated on a trendy side street in Brockley? 'Coqfighter' is opposite an independent wine emporium 'Salt Bottles' complete with an artisanal dairy fridge (and wonderfully patient staff in the face of my ignorance about all the supply.
 
