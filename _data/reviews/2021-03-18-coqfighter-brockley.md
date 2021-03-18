@@ -6,8 +6,6 @@ tag: Review
 title: 'Coqfighter, Brockley'
 thumbnail: /assets/IMG_20210316_133530.jpg
 ---
-
-
 <!--StartFragment-->
 
 **Coqfighter, Brockley**
@@ -24,9 +22,9 @@ The fries.
 
 In my experience, vendors are willing to overlook at least one of these elements at all times. Maxin Chicken absolutely forwent quality of the chicken itself- that’s a given and of no surprise to any chicken joint with opening hours that pick up where the pubs leave off. Served in those oblong boxes with a little tagline to the effect of ‘hot n tasty’ or ‘like you give a fuck’ my chicken was always buried under the fries with devastating effect. 
 
-With the lid on the box, a sauna begins to form- steaming the batter from the chicken and sweating the fries in the process, leading to visible damp in and around the box. Coupled with that translucent blue carrier bag that further compounds the guilt of the total environmental impact you’ve caused, you’ve more or less spent £4.99 (£5 really because these shops don’t carry change) on a mistake. And yes, I’m sober.
+With the lid on the box, a sauna begins to form- steaming the batter from the chicken and sweating the fries in the process, leading to visible damp in and around the box. Coupled with that translucent blue carrier bag that further compounds the guilt of the total environmental impact you’ve caused, you’ve more or less spent £4.99 (£5 really because these shops don’t carry change) on a mistake. 
 
-But I kept coming back because the actual flavour of the coating was nigh-on perfect. Unapologetic thwacks of cayenne and black pepper with fine ratios of paprika, garlic and onion powder that were suspended in a batter that could be rejuvenated with a blast in a hot oven. Plus this place let you trade in your can of tepid fizz for two extra chickenb instead- a flexibility that I always cherished.
+But I kept coming back because the actual flavour of the coating was nigh-on perfect. Unapologetic thwacks of cayenne and black pepper with fine ratios of paprika, garlic and onion powder that were suspended in a batter that could be rejuvenated with a blast in a hot oven. Plus this place let you trade in your can of tepid fizz for extra chicken instead- a flexibility that I always cherished.
 
 Not only this, but the fries that were always cooked to order were my idealised version of what fries should be. Thin but not skinny and always slightly burnished along the edges fading into golden sides, they held their salt and were in such a quantity, you didn’t have to ration them- just get stuck in. And for £5 I’d have 5 strips, 2 wings and all these fries.
 
@@ -55,7 +53,5 @@ A piece of thigh meat that reminded me of Apollo 31 in its succulence, we test t
 It’s decided that this is one of the best examples of fried chicken that we’ve *ever* had. Even with the price tag that my choice carries, the wince is eased with the value of everything else. The fries are of my fetishised dimensions and constitution with a comprehensive dusting of smoked paprika that just overtakes the umami of the dashi, being the only drawback.
 
 Wedging itself firmly between the flavour of Maxin-esque dives to the quality and welfare of somewhere like Wings Diner, the disbelief of our luck is furthered by the fact we’re paying such reasonable prices in a part of London so clearly and firmly in the bosom of gentrification. As the move to London teases ever closer, having a reliable fried chicken joint in place means I can start with the lesser-issues of a job and dwelling.
-
-
 
 <!--EndFragment-->
