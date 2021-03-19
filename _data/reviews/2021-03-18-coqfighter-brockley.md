@@ -48,7 +48,9 @@ One of the first things to smack me in the eyes besides the gleaming chestnut-br
 
 The American cheese plays its role that’s caused me to love it throughout the years- a creamy adhesive that mimics a whisper of anything actually real that doesn’t tread on the wider flavour profile. Along with the simple fresh relief that only iceberg provides, all of these elements serve as a solid stage for the chicken to do its thing.
 
-A piece of thigh meat that reminded me of Apollo 31 in its succulence, we test the steadfastness of batter- the crunch reverberates around our skulls whilst delivering punches from their seasoning that assures you that you could eat the piece as-is. My Editor’s buffalo sauce is a deep, bright lava hue that’s quenched with the classic addition of sweet and sour pickles. The batter reveals an even coating that comes from attentive dredging and solid cooking skills and it’s now we realise that neither of us have said a single word. Just grunts in various pitches of approval.
+A piece of thigh meat that reminded me of Apollo 31 in its succulence, we test the steadfastness of batter- the crunch reverberates around our skulls whilst delivering punches from their seasoning that assures you that you could eat the piece as-is. My Editor’s buffalo sauce is a deep, bright lava hue that’s quenched with the classic addition of sweet and sour pickles. 
+
+The signature warmth of ginger not overly present but the sweetness of it distinguishable from the honey itself. The batter reveals an even coating that comes from attentive dredging and solid cooking skills and it’s now we realise that neither of us have said a single word. Just grunts in various pitches of approval.
 
 It’s decided that this is one of the best examples of fried chicken that we’ve *ever* had. Even with the price tag that my choice carries, the wince is eased with the value of everything else. The fries are of my fetishised dimensions and constitution with a comprehensive dusting of smoked paprika that just overtakes the umami of the dashi, being the only drawback.
 
