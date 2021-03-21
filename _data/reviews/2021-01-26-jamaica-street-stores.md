@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /Jamaica-Street-Stores
+path: /JSS
 date: 2021-01-19T08:19:18.227Z
 tag: Review
 title: Jamaica Street Stores
