@@ -28,7 +28,7 @@ The burrata with Sicilian caponata de melanzane & pasta fritti is perhaps the st
 
 ![](https://lh4.googleusercontent.com/FVWNvMcNaXdzzmNSVVQlNCxemV-E5n1Pxsw6GRkpihCml4nQ4rRm8YNC6gHyPWcwoY86w90zUAfixqa04ULFz5V7NHKQK_AkYO4qiwBHv6kkiv4F0Qw29H70dY0U8MsqztQfUeno)Save me.
 
-I look to the next dish ‘Raviolo doppio of braised duck with Italian peas & crispy coppa in brodo’ and immediately hear the moronic interrogative seeping into my thoughts. “Raviolo, like,doppio?And BTW ‘brodo’means ‘broth’, omg you’re welcome!” accompanied by an audible plastic grin. Severely imbalanced, lukewarm and astringent to a wince – I see a lot of myself in this dish.
+I look to the next dish ‘Raviolo doppio of braised duck with Italian peas & crispy coppa in brodo’ and immediately hear the moronic interrogative slicing into my thoughts. "Raviolo, like, *doppio?* And BTW *‘brodo’* means *‘broth’*, omg you’re welcome!” accompanied by an audible plastic grin. Severely imbalanced, lukewarm and astringent to a wince – I see a lot of myself in this dish.
 
 But there’s a raspberry in there, so that’s something.
 
