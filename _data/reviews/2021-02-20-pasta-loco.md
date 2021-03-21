@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /pastaloco
+path: /PastaLoco
 date: 2021-02-20T15:52:15.134Z
 tag: Review
 title: 'Pasta Loco '
