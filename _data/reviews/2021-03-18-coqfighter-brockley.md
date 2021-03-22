@@ -8,8 +8,6 @@ thumbnail: /assets/IMG_20210316_133530.jpg
 ---
 <!--StartFragment-->
 
-**Coqfighter, Brockley**
-
 I’ve banged on before about the Trojan Horse potential of fried chicken and our submissive will to forgive these shortcomings;
 
 Quality of chicken
