@@ -34,7 +34,9 @@ If you’re going to charge £3 for fries, then fucking make with the fries. I d
 
 Don't get me wrong, the chicken is good: the double cooking makes sure that you can bite clean-through without fear of an imminent chin-slap from loosely battered skin. I genuinely reveled in being able to ravage the fillets as I please, without the irritating tedium of a never-ending mouthful that you sometimes get from pizza or spaghetti.
 
-When it comes to the execution, Wings Diner and the like plays a trick on you. It comes in those red plastic baskets lined with red and white chequered paper that you’d see in Saved By The Bell or any diner seen in American dross. It plays on that cringey love affair we have with American cuisine and that would be all fine and dandy if it then wasn’t priced like it’s a delicacy. Burrito's suffer a similar reputation in this way, too.
+When it comes to the execution, Wings Diner and the like plays a trick on you. It comes in those red plastic baskets lined with red and white chequered paper that you’d see in Saved By The Bell or any diner seen in American dross. It plays on that cringey love affair we have with American cuisine and that would be all fine and dandy if it then wasn’t priced like it’s a delicacy. 
+
+Anyway-
 
 I’m an insufferable pedant about a lot of things as you can probably glean from this tirade but who'd’ve thought I’d be vindicated on a trendy side street in Brockley? 'Coqfighter' is opposite an independent wine emporium 'Salt Bottles' complete with an artisanal dairy fridge (and wonderfully patient staff in the face of my ignorance about all the supply.
 
@@ -46,7 +48,7 @@ My Editor suggests a nearby stoop of the Brockley overground and we turn the cor
 
 One of the first things to smack me in the eyes besides the gleaming chestnut-brown brioche bun is the textbook ruffling of a gnarly, visibly crisp batter. Aware that with every passing moment is a chance for the sauce to wrest this glory, I dock my face right in to find my fear totally unfounded. From the top the bun gives way as it should; the toasting giving the extra support and resistance to moisture- through to this miso ranch which is inspired- the umami here nodding to the dashi on the fries which I assault with impunity. 
 
-The American cheese plays its role that’s caused me to love it throughout the years- a creamy adhesive that mimics a whisper of anything actually real that doesn’t tread on the wider flavour profile. Along with the simple fresh relief that only iceberg provides, all of these elements serve as a solid stage for the chicken to do its thing.
+The American cheese plays its role that’s caused me to love it throughout the years- a creamy adhesive that mimics a whisper of anything actually real, without treading on the wider flavour profile. Along with the simple fresh relief that only iceberg provides, all of these elements serve as a solid stage for the chicken to do its thing.
 
 A piece of thigh meat that reminded me of Apollo 31 in its succulence, we test the steadfastness of batter- the crunch reverberates around our skulls whilst delivering punches from their seasoning that assures you that you could eat the piece as-is. My Editor’s buffalo sauce is a deep, bright lava hue that’s quenched with the classic addition of sweet and sour pickles. 
 
