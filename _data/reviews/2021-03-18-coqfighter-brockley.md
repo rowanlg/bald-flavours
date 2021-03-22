@@ -30,7 +30,7 @@ Not only this, but the fries that were always cooked to order were my idealised 
 
 On the flip-side to this is Wings Diner on Kings Street. Here, a piece of breast, thigh and fries (extra) is £10.50. Yes, the quality of chicken is higher and yes it’s brined in buttermilk for 24 hours before serving and double-fried, which is all welcomed effort that’s factored into the cost but here’s the *‘but’.*
 
-If you’re going to charge £3 for fries, then fucking make with the fries. I didn’t ask for a suggestion of potato, they’re not exactly crafted from Yukon Gold’s or fried in dripping so don’t take the piss. Fries cost fuck all- especially when not hand-cut, as the ancient proverb of ‘cheap as chips’ might imply.
+If you’re going to charge £3 for fries, then make with the fries. I didn’t ask for a suggestion of potato, they’re not exactly crafted from Yukon Gold’s or fried in dripping, so don’t take the piss. Fries cost fuck all- especially when not hand-cut, as the ancient proverb of ‘cheap as chips’ might imply.
 
 Don't get me wrong, the chicken is good: the double cooking makes sure that you can bite clean-through without fear of an imminent chin-slap from loosely battered skin. I genuinely reveled in being able to ravage the fillets as I please, without the irritating tedium of a never-ending mouthful that you sometimes get from pizza or spaghetti.
 
