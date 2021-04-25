@@ -37,13 +37,11 @@ Wishing the Lord had now taken him in the initial hospitalisation, he saw no sol
 
 The mousse itself is populated with little dense pockets of chocolate, reminiscent of a cake batter. There’s also that nudge of salt in the background that has you coming back, whilst the single cream this mound is paddling in, washes with the chocolate like a milkshake which makes everything a little lighter and due to the salt, almost quenching.
 
-
-
 The crème caramel is classic in all it’s reflective glory. With the reassuring wibble of something fortified with egg rather than an agent, it’s flecked with vanilla seed and carves like a stress-management activity with a spoon.
 
 Being the first meal out in several months and reminders everywhere to make allowances for mistakes and so on, my expectations came pre-calibrated; that is to say, trying to have none whatsoever. With this in mind, and being my sixth visit, the verdict is this:
 
-Little French is inconsistent in it’s output whilst remaining consistent on the price. Although it has clearly marked its territory with accolades from people whose opinions actually carry a readership, and is a much-needed addition to the creeping facelift of Henleaze and beyond, its customer base only have so much time and money left.
+Little French is inconsistent in its output whilst remaining consistent on the price. Although it has clearly marked its territory with accolades from people whose opinions actually carry a readership, and is a much-needed addition to the creeping facelift of Henleaze and beyond, its customer base only have so much time and money left.
 
 <!--StartFragment-->
 
