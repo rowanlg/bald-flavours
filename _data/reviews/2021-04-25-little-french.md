@@ -9,8 +9,6 @@ thumbnail: /assets/IMG_20210413_144250_060.jpg
 ---
 <!--StartFragment-->
 
-
-
 In many ways I owe my life to Little French- it’s where I first tasted sauternes butter and I’ve thought about being embalmed in it as a caveat to my Will. Located in Henleaze which occupies the high ground, is more or less where the Old Money comes to soak up the sun before they pop their clogs. It’s a little universe all of its own and historically always has been- a village layout equipped with all the little twee indie businesses. And a Waitrose because, dahling, are you seriously expecting anything less?
 
 When Little French threw down the gauntlet it was as if Godzilla was coming to town- every eatery had been there seemingly for the sake of it and to presumably get in on the hotbed of inheritance and inheritance-to-imminently-be. But it asserted itself off the weight of proprietor Freddy Bird’s reputation as head chef at The Lido and to great anticipation. I even became a little enamoured with my first visit as I saw Bird run a great service and ate incredibly well. The sweetbreads with lardon and peas are still a benchmark of sweetbread cookery in my mind to this day.
@@ -25,11 +23,11 @@ It feels unceremonious to the point where I’m loathed to send it back to a kit
 
 The crab mayonnaise is white crab meat loosely bound with mayo rather than a different emulsion entirely. Tucked into the spine of a gem lettuce leaf, it’s lying across halved cornish earlies which are so satisfying in their sweet densities, glossed with olive oil and humming with dill. Fresh and light despite the starch, it’s underwhelming when you consider the tier of restaurant LF is supposed to be.
 
-Obliged to order the sweetbreads this time with pigs trotters and a madeira sauce, which is mirrored with a sheen that a great sauce gives. A cobble of lightly caramelised sweetbreads surrounded by morsels of slow-cooked pork occupy the plate. Creamy and yielding, these sweetbreads give over to this sticky glaze of a sauce that boasts a depth of meatiness that’s cut by the sugars in the madeira.
+Obliged to order the sweetbreads this time with pigs trotters and a Madeira sauce, which is mirrored with a sheen that a great sauce gives. A cobble of lightly caramelised sweetbreads surrounded by morsels of slow-cooked pork occupy the plate. Creamy and yielding, these sweetbreads give over to this sticky glaze of a sauce that boasts a depth of meatiness that’s cut by the sugars in the Madeira.
 
 Wood-grilled Pyrenean lamb, haricot blanc, hispi cabbage, anchovy butter. It sounds like an absolute no-brainer and definitely the one to choose if you’re getting aligot too- but sit tight.
 
-Resting juices swirl the plate and the mint sauce seeps the colour of dying chlorophyl. The anchovy butter is however tying everything together in the way that some idiot guitarists characterise a good bass player as one that ‘you don’t really notice’ in the mix. Ostensibly a great plate of food that’s let down in detail, the aligot restores all serotonin deficit. This essence of potato that’s now peaking at critical mass with fat scoops like raw meringue and drops like treacle- it’s genuinely incredible. The make-up sex is happening already.
+Resting juices swirl the plate and the mint sauce seeps the colour of dying chlorophyll. The anchovy butter is however tying everything together in the way that some idiot guitarists characterise a good bass player as one that ‘you don’t really notice’ in the mix. Ostensibly a great plate of food that’s let down in detail, the aligot restores all serotonin deficit. This essence of potato that’s now peaking at critical mass with fat scoops like raw meringue and drops like treacle- it’s genuinely incredible. The make-up sex is happening already.
 
 To clarify, the diner I’m with was almost killed by a King Cobra recently and was halfway through showing me where they’d redirected the blood supply to his hand, when he got the news:
 
@@ -39,7 +37,9 @@ Wishing the Lord had now taken him in the initial hospitalisation, he saw no sol
 
 The mousse itself is populated with little dense pockets of chocolate, reminiscent of a cake batter. There’s also that nudge of salt in the background that has you coming back, whilst the single cream this mound is paddling in, washes with the chocolate like a milkshake which makes everything a little lighter and due to the salt, almost quenching.
 
-The creme caramel is classic in all it’s reflective glory. With the reassuring wibble of something fortified with egg rather than an agent, it’s flecked with vanilla seed and carves like a stress-management activity with a spoon.
+
+
+The crème caramel is classic in all it’s reflective glory. With the reassuring wibble of something fortified with egg rather than an agent, it’s flecked with vanilla seed and carves like a stress-management activity with a spoon.
 
 Being the first meal out in several months and reminders everywhere to make allowances for mistakes and so on, my expectations came pre-calibrated; that is to say, trying to have none whatsoever. With this in mind, and being my sixth visit, the verdict is this:
 
@@ -47,11 +47,7 @@ Little French is inconsistent in it’s output whilst remaining consistent on th
 
 <!--StartFragment-->
 
-
-
 See the entire meal here:<https://www.instagram.com/p/CNm7StaD69B/>
-
-
 
 <!--EndFragment-->
 
