@@ -15,7 +15,7 @@ When Little French threw down the gauntlet it was as if Godzilla was coming to t
 
 Some expected Bird to be back with his brigade on opening night after a year of confinement, but he wasn’t. Whilst I’m not saying he had to be, I left wondering if the disappointment of some of the dishes could’ve been avoided, had he been. Right out of the gate, the queen scallops are overcooked with only the sauternes butter talking me off the ledge.
 
-The pig's head croquettes on gribiche had me staring into the plate, shaking my head, muttering profanities. Not only is this one of the most well-balanced, cooked and portioned plate of croquettes in recent memory but it’s only £2.50. The panko is fried shell is having no trouble holding itself, filled with hunks of pulled-pork in a reduction of it’s juices.
+The pig's head croquettes on gribiche had me staring into the plate, shaking my head, muttering profanities. Not only is this one of the most well-balanced, cooked and portioned plate of croquettes in recent memory but it’s only £2.50. The panko is fried shell is having no trouble holding itself, filled with hunks of pulled-pork in a reduction of its juices.
 
 Not many places have you laying in bed thinking about mushrooms on toast with clenched fists, ruing all the things you didn’t say at the time. Honestly, look at the photo and try not to let that image live in your head, rent-free, whilst also knowing that it's £7. And no brioche either - instead a lightly toasted slice of the bread you had at the start. They’ve got bills to pay- I understand that- but so do I.
 
