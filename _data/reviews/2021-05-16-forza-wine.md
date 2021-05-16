@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /Forza Wine
+path: /ForzaWine
 date: 2021-05-16T12:21:39.184Z
 tag: Review
 title: Forza Wine
