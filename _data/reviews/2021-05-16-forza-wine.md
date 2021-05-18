@@ -12,7 +12,7 @@ Ordering small plates on a stormy rooftop bar in Peckham whilst making Mantis-li
 
 I don’t know what it is about becoming a customer that turns me into such an embarrassing muddle. I manage to order the same single glass of wine three times until I’m triple parked, all because of my inability to function as a person. It’s also why I can’t function in a kitchen either, which makes me think I’m in way over my head, regarding my life choices.
 
-Deep-fried cauliflower that seemed to start as a menu placation, has been dominated in the Forza kitchen. A fry so crisp, it’s in a constant state of shatter whilst being so liberally seasoned right out of the fryer, it tells you everything these is to appreciate about a cauliflower: the flesh is still steamingly sweet, the outer leaves impart a bitterness and the surface has caramelised in a way that gives a concentrated umami tickle. This mound of gnarly florets come with an aioli that vies for just as much attention, bringing that fresh, sticky-sweet emulsified fire that also acts as a heat-sink for the freshly-fried goods.
+Deep-fried cauliflower that seemed to start as a menu placation across the globe, has been dominated in the Forza kitchen. A fry so crisp, it’s in a constant state of shatter whilst being so liberally seasoned right out of the fryer, it tells you everything there is to appreciate about a cauliflower: the flesh is still steamingly sweet, the outer leaves imparting bitterness and the surface is caramelised in a way that gives a concentrated umami tickle. This mound of gnarly florets come with an aioli that vies for just as much attention, bringing that fresh, sticky-sweet emulsified fire that also acts as a heat-sink for the freshly-fried goods.
 
 A deftly-filleted mackerel sits thatched with slices of preserved lemon rind, in a pool of the juices, flecked with chili flakes. Intensely grilled on the skin side, the residual temperature has brought out those oil giving rise to the much-maligned term, unctuousness. Zipping with lemon that leaves behind a smoldering warmth, it’s an outright giggle to eat- even if it’s started to rain.
 
@@ -33,7 +33,5 @@ Lastly, a little cortado glass of mint and chocolate soft serve clinks down next
 Of course, I’m surrounded by reams of Nathan Barley’s and those people that say ‘yas’, holding a Vogue cigarette with open palm as if constantly making a point, but as if you’d expect anything less of a rooftop bar in Peckham. I’ve come to their world, and I’m sure I ruined many Tik-Toks and Stories that night, simply by being so unaesthetically present in the background.
 
 In my less cynical moments, it’s good to see the sabre-rattling of British drinking culture- they’ll turn out for a drop, anywhere, any time and if that sort of thing perpetuates offerings like that of Forza, I’m willing to put up with the public that much longer.
-
-
 
 <!--EndFragment-->
