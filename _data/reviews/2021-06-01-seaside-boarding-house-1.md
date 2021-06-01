@@ -7,8 +7,6 @@ title: Seaside Boarding House
 ---
 <!--StartFragment-->
 
-The Seaside Boarding House
-
 Christopher Hitchens once said that as an atheist, his children were his only chance at ‘even a glimpse of an afterlife’ and, given that I managed to absolutely sleep on the brilliance that was Wallfish Bistro, I too was given a second chance of experiencing its reincarnation.
 
 The Seaside Boarding House is where you can find the previous owners of the erstwhile restaurant, Seldon and Liberty- the menu and even plating still reminiscent of all I heard and seen of this place. Whose calamari with chili and fennel saw the likes of Jay Rayner jellied at the knees. As if to seem like ghosts themselves, the power couple were conspicuously absent but it was Liberty’s birthday, so I’ll more or less pack in my righteous indignation now.
