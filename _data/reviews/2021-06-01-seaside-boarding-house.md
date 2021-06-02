@@ -1,15 +1,15 @@
 ---
 template: BlogPost
-path: /SeasideBoardingHouse
+path: /TheSeasideBoardingHouse
 date: 2021-06-01T19:17:11.229Z
 tag: Review
-title: Seaside Boarding House
+title: The Seaside Boarding House
 ---
 <!--StartFragment-->
 
 Christopher Hitchens once said that as an atheist, his children were his only chance at ‘even a glimpse of an afterlife’ and, given that I managed to absolutely sleep on the brilliance that was Wallfish Bistro, I too was given a second chance of experiencing its reincarnation.
 
-The Seaside Boarding House is where you can find the previous owners of the erstwhile restaurant, Seldon and Liberty- the menu and even plating still reminiscent of all I heard and seen of this place. Whose calamari with chili and fennel saw the likes of Jay Rayner jellied at the knees. As if to seem like ghosts themselves, the power couple were conspicuously absent but it was Liberty’s birthday, so I’ll more or less pack in my righteous indignation now.
+The Seaside Boarding House is where you can find the previous owners of the erstwhile restaurant, Seldon and Liberty- the menu and even plating still reminiscent of all I'd heard and seen of this place. Whose calamari with chili and fennel saw the likes of Jay Rayner jellied at the knees. As if to seem like ghosts themselves, the power couple were conspicuously absent but it was Liberty’s birthday, so I’ll more or less pack in my righteous indignation now.
 
 Eating in hotels is an odd thing; strenuously contrived to give a sense of a home you’d never choose, complete with a ‘library room’ there’s an air of Cluedo about such places and even sometimes an air of The Shining at the bar in the small hours. Entering the dining room of SBH it’s packed with Old Money, pushing their visibly excellent fish and chips about, as if to be too accustomed to the ritual whilst putting bottle after dewey bottle of white wine that no doubt resides somewhere towards the very bottom of the wine list. We are on the Jurassic Coast, after all, so fossils are par for the course.
 
