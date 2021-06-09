@@ -1,13 +1,13 @@
 ---
 template: BlogPost
-path: /TheCoalRooms
+path: /CoalRooms
 date: 2021-06-06T15:05:50.936Z
 tag: Review
-title: The Coal Rooms
+title: Coal Rooms
 ---
 “When it’s brown it’s cooked, when it’s black, it’s fucked” is the silly mantra of an even sillier man, Gordon Ramsay. An increasingly out-of-touch bollock-merchant who can’t handle the fact he’s getting older which, for a man who claims to deal so plainly in bare-faced truths, can’t seem to help but get his filled with Botox. Blackening with fire can bring arguably more benefits than losses and, if we abided by Gordipops in this way, we’d never know the glory of baba ganoush, harissa or burnt ends. Ramsay, like his face, is full of toxic shit.
 
-Showing me everywhere the Taste Cadets haven’t seemingly yet ventured, My Editor snagged us a table at The Coal Rooms- a place she's been eyeing-up for some time. Located right at the bottom of the stairs leading out from Peckham Rye station, it’s now fully open and has converted to a tasting menu with wine flight and a new head chef. Conditions are perfect. A couple in the corner appears even happier to be here because the necking has started almost immediately like it's Fabric and not just gone 6pm.
+Showing me everywhere the Taste Cadets haven’t seemingly yet ventured, My Editor snagged us a table at Coal Rooms- a place she's been eyeing-up for some time. Located right at the bottom of the stairs leading out from Peckham Rye station, it’s now fully open and has converted to a tasting menu with wine flight and a new head chef. Conditions are perfect. A couple in the corner appears even happier to be here because the necking has started almost immediately like it's Fabric and not just gone 6pm.
 
 Equally keen to show off our necking abilities in riposte, we leap straight for the lemon meringue pisco sours. Juicy, bright with a definite lemon curd quality but without cloy, the top comes lightly torched and mimics that tacky-to-the-touch chewy quality in a way that still allows the drink to flow, unhindered. A thigh-slapping touch to a restaurant that is trying to put fire into everything, be it with flame or jalapeño- found even in the Margheritas. 
 
@@ -29,6 +29,6 @@ A surreptitious Google has me hanging my head in shame yet again as I groak for 
 
 What’s there to elaborate on? It is exactly this and oozing into ever-absorbed clumps of icing sugar. It’s again no looker, but assimilates into the very core of your being, the way only something like a brownie can. Bitter with cocoa, lifted with dulce de leche and further indulged with the dense cream, it concludes a ride in which all my limbs remain- and I’m ready to go again.
 
-The Coal Rooms reminds me of when Otira opened in Bristol- invigorating ideas that merely suffer from plating and minor issues of execution. But to hesitate on these points, would be to miss the point entirely. Whilst the likes of[ Brat](https://baldflavours.com/Brat) and Ynishir, I don’t think this place is necessarily trying to compete with that sort of thing. It's doing something all its own and there's something so viscerally rewarding about being amongst it all in real-time, as concepts pupate. 
+Coal Rooms reminds me of when Otira opened in Bristol- invigorating ideas that merely suffer from plating and minor issues of execution. But to hesitate on these points, would be to miss the point entirely. Whilst the likes of[ Brat](https://baldflavours.com/Brat) and Ynishir, I don’t think this place is necessarily trying to compete with that sort of thing. It's doing something all its own and there's something so viscerally rewarding about being amongst it all in real-time, as concepts pupate. 
 
 We just need to be patient.
