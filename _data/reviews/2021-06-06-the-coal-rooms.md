@@ -29,6 +29,6 @@ A surreptitious Google has me hanging my head in shame yet again as I groak for 
 
 What’s there to elaborate on? It is exactly this and oozing into ever-absorbed clumps of icing sugar. It’s again no looker, but assimilates into the very core of your being, the way only something like a brownie can. Bitter with cocoa, lifted with dulce de leche and further indulged with the dense cream, it concludes a ride in which all my limbs remain- and I’m ready to go again.
 
-Coal Rooms reminds me of when Otira opened in Bristol- invigorating ideas that merely suffer from plating and minor issues of execution. But to hesitate on these points, would be to miss the point entirely. Whilst the likes of[ Brat](https://baldflavours.com/Brat) and Ynishir, I don’t think this place is necessarily trying to compete with that sort of thing. It's doing something all its own and there's something so viscerally rewarding about being amongst it all in real-time, as concepts pupate. 
+Coal Rooms reminds me of when Otira opened in Bristol- invigorating ideas that merely suffer from plating and minor issues of execution. But to hesitate on these points, would be to miss the point entirely. Whilst the likes of[ Brat](https://baldflavours.com/Brat) and Ynishir are famous for their taming of joules, I don’t think this place is necessarily trying to compete with that sort of thing. It's doing something all its own and there's something so viscerally rewarding about being amongst it all in real-time, as concepts pupate. 
 
 We just need to be patient.
