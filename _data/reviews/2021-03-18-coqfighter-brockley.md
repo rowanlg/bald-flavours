@@ -18,7 +18,7 @@ Quality of execution
 
 The fries.
 
-In my experience, vendors are willing to overlook at least one of these elements at all times. Maxin Chicken absolutely forwent quality of the chicken itself- that’s a given and of no surprise to any chicken joint with opening hours that pick up where the pubs leave off. Served in those oblong boxes with a little tagline to the effect of ‘hot n tasty’ or ‘like you give a fuck’ my chicken was always buried under the fries with devastating effect. 
+In my experience, vendors are willing to overlook at least one of these elements at all times. Maxin Chicken up Gloucester Road in Bristol like so many chicken shops, absolutely forego the quality of the chicken itself which is practically a given and of no surprise to any chicken joint with opening hours that pick up where the pubs leave off. Served in those oblong boxes with a little tagline to the effect of ‘hot n tasty’ or ‘as if you give a toss’ my chicken was always buried under the fries with devastating effect. 
 
 With the lid on the box, a sauna begins to form- steaming the batter from the chicken and sweating the fries in the process, leading to visible damp in and around the box. Coupled with that translucent blue carrier bag that further compounds the guilt of the total environmental impact you’ve caused, you’ve more or less spent £4.99 (£5 really because these shops don’t carry change) on a mistake. 
 
