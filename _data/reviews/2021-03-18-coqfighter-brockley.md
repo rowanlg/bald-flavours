@@ -46,7 +46,7 @@ My Editor suggests a nearby stoop of the Brockley overground and we turn the cor
 
 One of the first things to smack me in the eyes besides the gleaming chestnut-brown brioche bun is the textbook ruffling of a gnarly, visibly crisp batter. Aware that with every passing moment is a chance for the sauce to wrest this glory, I dock my face right in to find my fear totally unfounded. From the top the bun gives way as it should; the toasting giving the extra support and resistance to moisture- through to this miso ranch which is inspired- the umami here nodding to the dashi on the fries which I assault with impunity. 
 
-The American cheese plays its role that’s caused me to love it throughout the years- a creamy adhesive that mimics a whisper of anything actually real, without treading on the wider flavour profile. Along with the simple fresh relief that only iceberg provides, all of these elements serve as a solid stage for the chicken to do its thing.
+The American cheese plays its role that’s caused me to love it throughout the years- a creamy adhesive that mimics a whisper of anything actually real, without treading on the wider flavour profile. Along with the simple fresh relief that only iceberg lettuce provides, all of these elements serve as a solid stage for the chicken to do its thing.
 
 A piece of thigh meat that reminded me of Apollo 31 in its succulence, we test the steadfastness of batter- the crunch reverberates around our skulls whilst delivering punches from their seasoning that assures you that you could eat the piece as-is. My Editor’s buffalo sauce is a deep, bright lava hue that’s quenched with the classic addition of sweet and sour pickles. 
 
