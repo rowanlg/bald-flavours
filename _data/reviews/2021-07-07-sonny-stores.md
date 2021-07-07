@@ -31,7 +31,7 @@ Because it’s so bloody humid, no tart or even ice cream is going to cut it. Th
 
 ‘I’d sip some vodka, a bite of granita first, then pour it over the rest over’. Lucy strikes again with excellent counsel.
 
-One of my mum’s favourite things was fruit sorbet. We once stood in the Mall at Cribbs Causeway after she got a round of Häagen-Daz in from the stall, and told me you can always tell a good sorbet if it transports you to the field of the fruit when you close your eyes. With hers firmly closed as if accessing REM straight away, I followed suit only to reopen mine to see her still savouring the experience in ernest.
+One of my mum’s favourite things was fruit sorbet. We once stood in the Mall at Cribbs Causeway after she got a round of Häagen-Daz in from the stall, and told me you can always tell a good sorbet if it transports you to the field of the fruit when you close your eyes. With hers firmly closed as if accessing REM straight away, I followed suit only to reopen mine to see her still savouring the experience in earnest.
 
 This is probably one of the most enduring memories I have of her; this dessert whisked me back in time, so fast I suddenly felt small in my adult clothes, up higher on the stool and alarmed that I now also wear Birkenstocks unironically, like she did. Capped off with the sparky chill of iced vodka, I am replete.
 
