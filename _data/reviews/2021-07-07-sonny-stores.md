@@ -19,7 +19,7 @@ Practically glowing with heat, they resemble glacé cherries with that exact sam
 
 Likewise, the sweetbreads with courgette, capers and lemon have all been scorched. Whilst the char is great on the courgette along with all the acidity and salinity it’s anointed with, the sweetbreads don’t fare so well. A little firm, the charcoal bitterness bludgeons the dish beyond what this marriage of flavours can take.
 
-The flipside of this, however, is the turbot carpaccio, fennel herb, Purslane, lemon and Capezzana olive oil bursts with zest and the nose of cut grass with mellow aniseed. Quietly seasoned with toothsome Purslane, there’s an incredible array of flavours that are so harmonious, it speaks volumes of how fish is philosophised here.
+The flipside of this, however, is the turbot carpaccio, fennel herb, Purslane, lemon and Capezzana olive oil bursting with zest and the nose of cut grass with mellow aniseed. Quietly seasoned with toothsome Purslane, there’s an incredible array of flavours that are so harmonious, it speaks volumes of how fish is philosophised here.
 
 Quail, green beans, roast datterini tomatoes, prosciutto, dijon. Sonny’s deftly strikes that balance of rustic and refinement; that welcome Trojan-horsing of expectation which has my hands drumming in my lap through pure anticipation.
 
