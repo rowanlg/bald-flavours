@@ -25,7 +25,7 @@ Quail, green beans, roast datterini tomatoes, prosciutto, dijon. Sonny’s deftl
 
 This bird has been cooked with love. Tremblingly succulent and blushing, it’s served whole so that the honour of making a pig's ear of the carving, is all yours. Essentially spatchcocking it with my face, I’ve gone full-piranha and although I know it’s all around my chops, I couldn’t give a toss. Seasoned with the prosciutto, the fat melts away almost instantaneously with the heat of the Quail, the green beans delivering their sweet tender snap.
 
-But the roast datterini tomatoes tie it all together- their mellow acidity dousing the plate with this intense seeded juice, backed up with the tingle of dijon. Sonny’s appears to insist on the kind of cookery that had me fawning over Bitch Mk.1 - deceptively simple, rife with technique and offered with affection.
+But the roast datterini tomatoes tie it all together- their mellow acidity dousing the plate with this intense seeded juice, backed up with the tingle of dijon. Sonny’s appears to insist on the kind of cookery that had me fawning over Bitch Mk.1 - deceptively simple, rife with technique and offered with affection. Sweetbreads notwithstanding.
 
 Because it’s so bloody humid, no tart or even ice cream is going to cut it. The erudite Lucy who has picked the short straw and has ended up waiting on me, is of St. John’s fame and tells me that there is a dessert honouring her former workplace on the menu today. A strawberry granita served with a shot of frosty vodka. Contrary to most, booze in my dessert doesn’t tend to move me but given that I’m tacky to the touch in the sticky warmth, I throw-in with Lucy. And I’m glad I did.
 
