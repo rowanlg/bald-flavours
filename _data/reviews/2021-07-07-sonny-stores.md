@@ -9,7 +9,7 @@ title: Sonny Stores
 
 Retaining all the subtle class of Birch Mk.1, natural light pours in against plain white walls, splashed across simple wooden tables and chairs. More importantly, it serves up plates that soothe the anathema of a day job.
 
-Slices of golden farinata are almost immediately laid down in front of me, with the assumption I need the time to peruse the menu. I do not. Being nimble enough in the thumbs to bag a table due to a cancellation that day, I’d already made up my mind. And it starts with their potato bread with hot honey and pancetta.
+Slices of golden farinata are almost immediately laid down in front of me, with the assumption that I need the time to peruse the menu. I do not. Being nimble enough in the thumbs to bag a table due to a cancellation that day, I’d already made up my mind. And it starts with their potato bread with hot honey and pancetta.
 
 Hot honey. You’ve seen it. Everyone’s doing it. Once innovation becomes mainstream, it simply becomes a case of who does it best, rather than doing it at all. And lo, there was Sonny’s.
 
