@@ -11,7 +11,7 @@ Retaining all the subtle class of Birch Mk.1, natural light pours in against pla
 
 Slices of golden farinata are almost immediately laid down in front of me, with the assumption that I need the time to peruse the menu. I do not. Being nimble enough in the thumbs to bag a table due to a cancellation that day, I’d already made up my mind. And it starts with their potato bread with hot honey and pancetta.
 
-Hot honey. You’ve seen it. Everyone’s doing it. Once innovation becomes mainstream, it simply becomes a case of who does it best, rather than doing it at all. And lo, there was Sonny’s.
+Hot honey. You’ve seen it. Everyone’s doing it. Once innovation becomes mainstream, it's simply a case of who does it best, rather than doing it at all. And lo, there was Sonny’s.
 
 This utter roof tile of carbs two-ways is scaled with thin slices of potato and blackened on every corner, every edge and positively glistening with lacings of this hot honey. But it’s the scotch bonnets that have been steeping in this elixir that I cannot take my eye off of.
 
